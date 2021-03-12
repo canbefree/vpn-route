@@ -1,4 +1,1 @@
-**/__pycache__/*.pyc
-common/__pycache__/__init__.cpython-39.pyc
-common/__pycache__/apnic.cpython-39.pyc
-tests/__pycache__/apnic_test.cpython-39.pyc
+**/__pycache__
