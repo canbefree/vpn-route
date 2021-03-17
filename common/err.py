@@ -1,3 +1,0 @@
-
-class ValueErr(Exception):
-    pass
