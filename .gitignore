@@ -1,2 +1,8 @@
 **/__pycache__
 **/*.log
+*.spec
+*.pyz
+*.toc
+*.pkg
+.gitignore
+dist/main.exe
